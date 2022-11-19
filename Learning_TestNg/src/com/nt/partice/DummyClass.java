@@ -6,6 +6,7 @@ public class DummyClass {
 		
 		System.out.println("i am first");
 		
+		System.out.println("I am second");
 
 	}
 
